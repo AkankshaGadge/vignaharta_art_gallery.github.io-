@@ -129,11 +129,10 @@ h1,h3,h4{
 }
 /*banner section*/
 .banner{
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/IMG_3401.jpg);
 	background-attachment: fixed;
+	height:100vh;
 	width:100%;
-
-	
 }
 .banner .caption h4{
 	             color:#fff;
@@ -143,7 +142,7 @@ h1,h3,h4{
 .Hire_me {
 	background-image: url(../Images/IMG_20210423_201540.jpg);
 	background-attachment: fixed;
-        height:100vh;
+    height:100vh;
 	width:100%;
 
 }
@@ -192,12 +191,10 @@ h1,h3,h4{
 }
 /*testimonial css*/
 .testimonial{
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/Images/InShot_20210513_190356145%20(1).jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/IMG_3436.jpg);
 	background-attachment: fixed;
-	width:100%;
-
 }
-.section_title h3 {
+.section_title h3 !important{
 	color:#1957f3;
 
 }
@@ -326,8 +323,6 @@ h1,h3,h4{
 .contact{
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
-	width:100%;
-
 }
 .section_title h3 {
 	color:#fff;
@@ -460,7 +455,3 @@ button[type="Submit"]:hover{
  .navbar-nav a{
   color: #1957f3;
 }
-
-
-
-
