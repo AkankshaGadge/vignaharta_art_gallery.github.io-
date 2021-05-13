@@ -129,7 +129,7 @@ h1,h3,h4{
 }
 /*banner section*/
 .banner{
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/instagram_gajmukh_morya_183232298_907461569826508_683656826160786814_n.jpg.);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
 	height:100vh;
 	width:100%;
@@ -191,7 +191,7 @@ h1,h3,h4{
 }
 /*testimonial css*/
 .testimonial{
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/IMG_3436.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
 }
 .section_title h3 !important{
