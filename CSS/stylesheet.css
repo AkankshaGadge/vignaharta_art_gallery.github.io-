@@ -131,7 +131,6 @@ h1,h3,h4{
 .banner{
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
-	height:100vh;
 	width:100%;
 
 	
@@ -195,7 +194,6 @@ h1,h3,h4{
 .testimonial{
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
-	height:100vh;
 	width:100%;
 
 }
@@ -328,7 +326,6 @@ h1,h3,h4{
 .contact{
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Images/ef20fe8b460edb3b99db752efd5a3c3b.jpg);
 	background-attachment: fixed;
-	height:100vh;
 	width:100%;
 
 }
